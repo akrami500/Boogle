@@ -1,7 +1,6 @@
-
 #top-bar {
     text-align: right;
-    padding: 10px;
+    padding: 12px;
     
 }
 
@@ -88,6 +87,18 @@
 
 }
 
+#google {
+    text-align: center;
+   
+
+}
+
+#center {
+    text-align: center;
+   
+
+}
+
 #bottom-bar {
     text-align: left;
     background-color: #F2F2F2;
@@ -112,6 +123,7 @@ a:visited {
 
 a:hover {
     color: blue;
+	
 }
 
 
@@ -126,7 +138,7 @@ a:active {
 }
 
 #google {
-    padding: 80px;
+    padding: 1px;
     
 }
 
@@ -149,28 +161,28 @@ a:active {
 
 #G {
     color: #5678E8;
-    font-size: 110px;
+    font-size: 100px;
     font-family:Arial;
 }
 
 #o {
     text-align: center;
     color: crimson;
-    font-size: 110px;
+    font-size: 100px;
     font-family:Arial;
 }
 
 #o1 {
     text-align: center;
     color: #FFCC00;
-    font-size: 110px;
+    font-size: 100px;
     font-family:Arial;
         
 }
 
 #g {
     color: #5678E8;
-    font-size: 110px;
+    font-size: 100px;
     font-family:Arial;
         
 }
@@ -178,13 +190,13 @@ a:active {
 #l {
     text-align: center;
     color: green;
-    font-size: 110px;
+    font-size: 100px;
     font-family:Arial;
 }
 
 #e {
     text-align: center;
     color: crimson;
-    font-size: 110px;
+    font-size: 100px;
     font-family:Arial;
 }
